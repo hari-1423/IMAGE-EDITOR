@@ -9,6 +9,12 @@
 <input type="button" id="id3" value="convert" onclick="dochange()">
 <br><hr>
 <h1><em>Change Background</em></h1>
+<h3>(The white background of first image gets changed)</h3>
+<canvas id="can2"></canvas>
+<canvas id="can3"></canvas>
+<canvas id="can4"></canvas>
+<br>
+
 
 
 
